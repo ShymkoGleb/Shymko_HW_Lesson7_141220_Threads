@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Shymko_HW_Lesson7_141220_Threads"
